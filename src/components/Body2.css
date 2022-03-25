@@ -1,0 +1,50 @@
+.marketing-container{
+  height: 800px;
+  position: sticky;
+  top:0;
+  display: flex;
+    background-image: url('./4.jpg');
+    background-size: cover;
+}
+
+
+.m-text-1{
+    color:orange;
+  }
+
+  .m-text-2{
+    color:white;
+  }
+
+  .blink_me2 {
+    animation: blinker 1s linear infinite;
+    color:white;
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+
+  .btn--outline2 {
+    background-color: transparent;
+    color: black;
+    padding: 8px 20px;
+    border: 1px solid black;
+    transition: all 0.3s ease-out;
+    padding: 12px 26px;
+    font-size: 20px;
+  }
+
+  
+  .btn--outline2:hover {
+    transition: all 0.3s ease-out;
+    background: black;
+    color: white;
+    transition: 250ms;
+  }
+  
+  .hero-btns {
+    margin-top: 32px;
+  }

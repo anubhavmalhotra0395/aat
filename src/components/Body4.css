@@ -1,0 +1,16 @@
+.it-container{
+    background-image: url('./5.jpg');
+    background-size: cover;
+    height: 800px;
+    position: sticky;
+    top:0;
+    display: flex;
+}
+
+.it-text-1{
+    color:orange;
+  }
+
+  .it-text-2{
+    color:whitesmoke;
+  }

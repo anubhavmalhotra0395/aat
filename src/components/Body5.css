@@ -1,0 +1,38 @@
+.get-in-touch{
+    background-color: #ff691f;
+    height:750px;
+    position: sticky;
+    top:0;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.g-i-t-text{
+    color:white;
+    font-size: 65px;
+}
+
+.btn--outline3:hover {
+    background-color: transparent;
+    color: black;
+    padding: 8px 20px;
+    border: 1px solid black;
+    transition: all 0.3s ease-out;
+    padding: 12px 26px;
+    font-size: 20px;
+  }
+
+  
+  .btn--outline3 {
+    transition: all 0.3s ease-out;
+    background: black;
+    color: white;
+    transition: 250ms;
+    padding: 8px 20px;
+    border: 1px solid black;
+    transition: all 0.3s ease-out;
+    padding: 12px 26px;
+    font-size: 20px;
+  }
+  

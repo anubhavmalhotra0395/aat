@@ -1,0 +1,24 @@
+
+
+.technology{
+    background-image: url('./3.jpg');
+    background-size: cover;
+    height: 800px;
+    position: sticky;
+    top:0;
+    display: flex;
+}
+
+.technology-header-text{
+ color: white;
+ padding-top: 70px;
+ font-size: 55px;
+}
+
+.t-text-1{
+    color:orange;
+  }
+
+  .t-text-2{
+    color:whitesmoke;
+  }

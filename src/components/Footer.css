@@ -1,0 +1,42 @@
+.footer{
+    background-color: black;
+    height:760px;
+    position: sticky;
+    top:0;
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+    align-items:center;
+    justify-content: center;
+}
+
+.footer-2{
+    display: flex;
+    flex-direction: row;
+    column-gap: 120px;
+}
+
+.footer-text-1{
+    color:white;
+    font-size: 20px;
+}
+
+.footer-text-2{
+    color:white;
+    font-size: 14px;
+}
+
+.footer-text-3{
+    color:#ff691f;
+    font-size: 14px;
+}
+
+.footer-text-4{
+    color:#ff691f;
+    font-size: 14px;
+}
+
+.footer-text-5{
+    color:white;
+    font-size: 12px;
+}
